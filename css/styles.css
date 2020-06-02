@@ -1,7 +1,6 @@
 body {
 	padding: 0;
 	scroll-behavior: smooth;
-	background-color: #b0dfa3;
 }
 
 /*Navigation bar*/
@@ -51,7 +50,7 @@ h2 {
 /*features...*/
 
 #features {
-	background-color: #b0dfa3;
+	background-color: white;
 	padding: 0 10%;
 	position: relative;
 }
