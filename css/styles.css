@@ -2,6 +2,9 @@ body {
 	padding: 0;
 	scroll-behavior: smooth;
 }
+html {
+	scroll-behavior: smooth;
+}
 
 /*Navigation bar*/
 
